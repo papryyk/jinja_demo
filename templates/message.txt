@@ -1,4 +1,4 @@
-Hello {{ receiver <}},
+Hello {{ receiver }},
 
 I'd like to inform that I'm out of office till {{ date }}.
 In case of any urgent matter, please contact {{ assistant }}

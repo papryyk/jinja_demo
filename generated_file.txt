@@ -1,14 +1,8 @@
-<!DOCTYPE html>
-<html lang="pl">
-<head>
-    <title>Title</title>
-</head>
-<body>
-   <h1> Przykładowy szablon </h1>
-   <p> <FONT COLOR="red"> kjasd </FONT> </p>
-   <p> kjasd </p>
-   <p> lkjasd </p>
-   <p> kasdkj </p>
-   <p> askldj </p>
-</body>
-</html>
+Szanowny Kliencie,
+
+Informujemy, że na Twoim koncie została zarejestrowana nowa transakcja
+w wysokości 100 PLN, w sklepie Tesco. Jeżeli nie zlecałeś tej transakcji,
+prosimy o niezwłoczne zgłoszenie na infolinię banku +48 123 123 123.
+
+Z poważaniem
+Twój Bank

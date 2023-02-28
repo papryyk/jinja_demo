@@ -30,7 +30,7 @@ def template_choice(template):
         if value == template:
             template_index = index
             for ind, kw in enumerate(template_kw[template_index]):
-                buttons_list[ind].set(kw)
+                buttons_list[ind].set(kw.replace("_", " "))
     for option_var in option_var_list:
         option_var.set("")
     refresh()
