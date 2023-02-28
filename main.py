@@ -64,7 +64,7 @@ Button(textvariable=button_1_var, state="disabled", disabledforeground="black").
 Button(textvariable=button_2_var, state="disabled", disabledforeground="black").grid(column=1, row=1)
 Button(textvariable=button_3_var, state="disabled", disabledforeground="black").grid(column=0, row=3)
 Button(textvariable=button_4_var, state="disabled", disabledforeground="black").grid(column=1, row=3)
-Button(ws, text="Load changes", command=refresh).grid(column=0, row=5, columnspan=3, sticky="EW")
+Button(ws, text="Generate file", command=refresh).grid(column=0, row=5, columnspan=3, sticky="EW")
 
 chosen_template.set("Templates")
 templates_drop = OptionMenu(ws, chosen_template, command=template_choice, *templates)
