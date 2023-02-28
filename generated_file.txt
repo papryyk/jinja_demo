@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <title>Title</title>
+</head>
+<body>
+   <h1> Przykładowy szablon </h1>
+   <p> <FONT COLOR="red"> kjasd </FONT> </p>
+   <p> kjasd </p>
+   <p> lkjasd </p>
+   <p> kasdkj </p>
+   <p> askldj </p>
+</body>
+</html>

@@ -1,0 +1,8 @@
+Szanowny Kliencie,
+
+Informujemy, że na Twoim koncie została zarejestrowana nowa transakcja
+w wysokości {{ amount }} {{ currency }}, w sklepie {{ store_name }}. Jeżeli nie zlecałeś tej transakcji,
+prosimy o niezwłoczne zgłoszenie na infolinię banku {{ phone_line_number }}.
+
+Z poważaniem
+Twój Bank
