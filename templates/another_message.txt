@@ -2,7 +2,8 @@ Szanowny Kliencie,
 
 Informujemy, że na Twoim koncie została zarejestrowana nowa transakcja
 w wysokości {{ Wartość }} {{ Waluta }}, w sklepie {{ Nazwa_sklepu }}. Jeżeli nie zlecałeś tej transakcji,
-prosimy o niezwłoczne zgłoszenie na infolinię banku {{ Numer_infolinii }}.
+prosimy o niezwłoczne zgłoszenie {% if Waluta == "PLN" %}na infolinię banku {{ Numer_infolinii }}.
+{% else %}się w najbliższym oddziale banku. {% endif %}
 
 Z poważaniem
 Twój Bank
