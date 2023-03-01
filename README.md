@@ -1,4 +1,4 @@
 # jinja_demo
 Simple template generator
 
-![demo](https://user-images.githubusercontent.com/85553099/222004951-0456b521-e03b-4233-b4c2-756cfe451097.gif)
+![demo](https://user-images.githubusercontent.com/85553099/222011991-e29283fe-65bc-408c-9073-26575892e359.gif)
